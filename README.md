@@ -44,5 +44,5 @@
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </div> -->
 
-<hr />
+<!-- <hr />
 
